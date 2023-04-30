@@ -19,11 +19,19 @@
 
     <modules>
         <module>reading-cloud-book</module>
-        <module>reading-cloud-account</module>
+        <module>reading-cloud-feign-client</module>
         <module>reading-cloud-common</module>
         <module>reading-cloud-feign-client</module>
         <module>reading-cloud-gateway</module>
         <module>reading-cloud-homepage</module>
+        <module>reading-cloud-book</module>
+        <module>reading-cloud-common</module>
+        <module>reading-cloud-feign-client</module>
+        <module>reading-cloud-feign-client/reading-cloud-book-feign-client</module>
+        <module>reading-cloud-feign-client/reading-cloud-account-feign-client</module>
+        <module>reading-cloud-gateway</module>
+        <module>reading-cloud-homepage</module>
+        <module>reading-cloud-account</module>
     </modules>
 
     <properties>
